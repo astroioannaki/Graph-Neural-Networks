@@ -1,7 +1,7 @@
 # Graph Neural Networks (GNNs)
 
-In this notebook we investigate two GCN flavors - for directed and undirected graphs.
-First, we look into the popular undirected graph example of Zachary's karate club network, and then look into an analytical implementation of the GCNConv, a flavor spiked to suit directed graphs and train it with the WikiCS dataset.
+In this notebook we investigate two Graph Convolutional Network (GCN) flavors - for directed and undirected graphs.
+First, we look into the popular undirected graph example of Zachary's karate club network, and then into an analytical implementation of the GCNConv, a flavor spiked to suit directed graphs trained on the WikiCS dataset.
 
 Model architectures/parameterizations inspired by the following articles:
 - T. Kipf and M. Welling, “Semi-Supervised Classification with Graph Convolutional Networks”, 2016, arXiv: 1609.02907
